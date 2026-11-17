@@ -117,5 +117,3 @@ Para usar un DHT22 en lugar del DHT11, cambia `#define DHT_TYPE DHT11` por `DHT2
 | El receptor no se conecta al Wi-Fi | Red de 5 GHz, nombre o contraseña incorrectos |
 | Blynk no conecta | `BLYNK_TEMPLATE_ID` o `BLYNK_AUTH_TOKEN` incorrectos |
 | ThingSpeak devuelve un código distinto de 200 | Write API Key o número de canal incorrectos, o menos de 15 s entre subidas |
-
-> No subas tus credenciales reales a un repositorio público.
